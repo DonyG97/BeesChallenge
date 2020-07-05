@@ -14,7 +14,7 @@ For the logic I've used a .NET Standard library as it's what I'm familiar with a
 For the UI I've chose a WPF application as it's my most familiar way to create UI's. It has the added benefit of making things like bindings very simple, especially when using the MVVM pattern.
 The downside to this is that the BeeBase.cs has to implement INotifyProperty changed in order to be updated on the UI, which somewhat convulates the class. This does not necessarily bind the Logic to the UI as INotifyProperty is not specific to WPF 
 
-##Testing Approach
+## Testing Approach 
 I've chosen to use NUnit as it's my most familar testing framework. Given the time frame of the challenge it doesn't make sense to try and use a new framework, albeit I would like to use XUnit in the future
 
 No strict naming convention has been followed for the tests as I feel not all tests follow the same pattern. 
