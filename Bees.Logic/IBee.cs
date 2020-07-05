@@ -1,12 +1,13 @@
 ﻿namespace Bees.Logic
 {
-	public interface IBee
-	{
-		float Health { get; }
+    public interface IBee
+    {
+        float Health { get; }
 
-		bool Dead { get; }
+        bool IsDead { get; }
 
-		int HealthThreshold { get; }
-		void Damage();
-	}
+        int HealthThreshold { get; }
+
+        void Damage(int damagePercentage);
+    }
 }
