@@ -10,3 +10,4 @@ D:\Code\BeesChallenge\Bees.Logic\obj\Debug\netstandard2.1\Bees.Logic.AssemblyInf
 D:\Code\BeesChallenge\Bees.Logic\obj\Debug\netstandard2.1\Bees.Logic.csproj.CoreCompileInputs.cache
 D:\Code\BeesChallenge\Bees.Logic\obj\Debug\netstandard2.1\Bees.Logic.dll
 D:\Code\BeesChallenge\Bees.Logic\obj\Debug\netstandard2.1\Bees.Logic.pdb
+D:\Code\BeesChallenge\Bees.Logic\obj\Debug\netstandard2.1\Bees.Logic.csprojAssemblyReference.cache
