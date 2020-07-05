@@ -1,0 +1,13 @@
+D:\Code\Bees\Bees.Logic\obj\Debug\netstandard2.1\Bees.Logic.csprojAssemblyReference.cache
+D:\Code\Bees\Bees.Logic\obj\Debug\netstandard2.1\Bees.Logic.AssemblyInfoInputs.cache
+D:\Code\Bees\Bees.Logic\obj\Debug\netstandard2.1\Bees.Logic.AssemblyInfo.cs
+D:\Code\Bees\Bees.Logic\obj\Debug\netstandard2.1\Bees.Logic.csproj.CoreCompileInputs.cache
+D:\Code\BeesChallenge\Bees.Logic\bin\Debug\netstandard2.1\Bees.Logic.deps.json
+D:\Code\BeesChallenge\Bees.Logic\bin\Debug\netstandard2.1\Bees.Logic.dll
+D:\Code\BeesChallenge\Bees.Logic\bin\Debug\netstandard2.1\Bees.Logic.pdb
+D:\Code\BeesChallenge\Bees.Logic\obj\Debug\netstandard2.1\Bees.Logic.csprojAssemblyReference.cache
+D:\Code\BeesChallenge\Bees.Logic\obj\Debug\netstandard2.1\Bees.Logic.AssemblyInfoInputs.cache
+D:\Code\BeesChallenge\Bees.Logic\obj\Debug\netstandard2.1\Bees.Logic.AssemblyInfo.cs
+D:\Code\BeesChallenge\Bees.Logic\obj\Debug\netstandard2.1\Bees.Logic.csproj.CoreCompileInputs.cache
+D:\Code\BeesChallenge\Bees.Logic\obj\Debug\netstandard2.1\Bees.Logic.dll
+D:\Code\BeesChallenge\Bees.Logic\obj\Debug\netstandard2.1\Bees.Logic.pdb
